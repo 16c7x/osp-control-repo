@@ -7,6 +7,10 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/concat',  '7.0.1'
 
 mod 'puppetlabs-puppetdb', '7.13.0'
+mod 'puppetlabs-stdlib', '9.4.1'
+mod 'puppetlabs-firewall', '8.0.0'
+mod 'puppetlabs-postgresql', '10.0.3'
+mod 'puppetlabs-inifile', '6.1.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
