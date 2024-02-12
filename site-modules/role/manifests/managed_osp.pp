@@ -1,4 +1,4 @@
 # An example role
-class role::osp {
+class role::managed_osp {
   include profile::osp
 }
